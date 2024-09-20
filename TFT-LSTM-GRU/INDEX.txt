@@ -1,0 +1,20 @@
+Model:
+Model testing is done in ipynb named TFT-TEST and LSTM and GRU
+Annotations about the TFT model are mainly in the TFT-TEST file,
+Other TFT model files have no annotations except for the loss function part
+LSTM and GRU codes are very similar, and the annotations are all in LSTM
+TFT-loss-Spearman is the loss function part of the Spearman correlation coefficient
+TFT-loss-MDA is the MDA loss function part
+TFT-GradNorm is the part that uses the GradNorm method to automate weights
+TFT-model-weights.pth is the saved model weights
+
+Data:
+NVD A, AAPL, TSLA are the data abbreviations of the three companies
+-5y suffix represents 5 years of pure stock data
+_data suffix represents the addition of financial data
+-AI suffix represents the addition of social keyword popularity data
+
+Logs:
+Lightning_logs saves some logs left during the training process
+.lr_find_93ad9c46-f78d-46b2-a19b-1e8f988256f8.ckpt：is the log file of optimization parameters
+.ipynb_checkpoints：Automatically save the checkpoints of the notebook
