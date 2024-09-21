@@ -1,2 +1,3 @@
 # Projects
-Some projects are used to show
+关于人工智能（智能）的一些项目，Bird是鸟类集群模拟项目、ChatBot是基于机器学习的智能对话项目、DengAI Predicting Disease Spread基于人工智能技术的预测竞赛项目、Linear optimization of car rentals是线性优化问题解决项目、TFT-LSTM-GRU是关于时序数据短期多步预测模型研究以及内部算法优化实现的毕业设计项目。
+Regarding some projects related to artificial intelligence (intelligence), Bird is a bird cluster simulation project, ChatBot is an intelligent conversation project based on machine learning, DengAI Predicting Disease Spread is a prediction competition project based on artificial intelligence technology, Linear optimization of car rentals is a linear optimization problem solving project, and TFT-LSTM-GRU is a graduation design project on the research of short-term multi-step prediction models for time series data and the optimization and implementation of internal algorithms.
